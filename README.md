@@ -1,4 +1,4 @@
-autobusai
+Bus network
 =========
 
-A Symfony project created on February 4, 2016, 6:46 pm.
+Simple computer network project for KTU 2016
